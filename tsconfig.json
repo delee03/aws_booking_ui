@@ -1,7 +1,15 @@
 {
-  "files": [],
-  "references": [
-    { "path": "./tsconfig.app.json" },
-    { "path": "./tsconfig.node.json" }
-  ]
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@/*": ["src/*"], // Đã đúng cấu hình alias cho @/
+            "@public/*": ["public/*"],
+            "@components/*": ["src/components/*"]
+        }
+    },
+    "files": [],
+    "references": [
+        { "path": "./tsconfig.app.json" },
+        { "path": "./tsconfig.node.json" }
+    ]
 }
