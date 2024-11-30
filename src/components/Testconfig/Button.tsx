@@ -6,6 +6,7 @@ const Button: React.FC = () => {
         <div>
             Button
             <div></div>
+            <Demo/>
         </div>
     );
 };

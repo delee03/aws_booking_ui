@@ -110,3 +110,21 @@ npm install concurrently --save-dev
     }
 }
 ```
+### The library used in this boilerplate
+
+-   [React](https://reactjs.org/)
+-   [Vite](https://vitejs.dev/)
+-   [TypeScript](https://www.typescriptlang.org/)
+-   [ESLint](https://eslint.org/)
+-   [Prettier](https://prettier.io/)
+-   [SWC](https://swc.rs/)
+- [Ant Design](https://ant.design/)
+- [React Router](https://reactrouter.com/)
+- [Axios](https://axios-http.com/)
+- [React Query](https://react-query.tanstack.com/)
+- [React Toolkit Redux](https://redux-toolkit.js.org/)
+- [Yup Validation]('npm i yup')
+- [Formik Form]('npm i formik')
+- [Sass]('npm i sass')
+- [React Router Dom]('npm i react-router-dom')
+
